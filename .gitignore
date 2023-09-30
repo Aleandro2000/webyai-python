@@ -1,0 +1,8 @@
+build
+dist
+main.spec
+.env
+/predeploy/*
+/assets/company-data-general-info.snappy.parquet
+# Local Netlify folder
+.netlify
